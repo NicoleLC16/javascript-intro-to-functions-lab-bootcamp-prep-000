@@ -12,6 +12,6 @@ return 'hello'.toUpperCase();
 }
 
 function logWhisper(string) {
-  console.log("logWhisper");
+  console.log("");
   return string.toLowerCase();
 }
